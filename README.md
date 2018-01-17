@@ -10,3 +10,5 @@
 
 [Урок 8](https://fuckmyhand.github.io/Domashka_8/src/ "Готовая домашка 8")
 
+
+[Урок 7](https://fuckmyhand.github.io/Domashka_7/src/ "Готовая домашка 7")
